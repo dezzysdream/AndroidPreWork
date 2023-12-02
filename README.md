@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/c3HSZSa' title='Video Walkthrough' width='5' alt='Video Walkthrough' />
+![HelloWorld](https://github.com/dezzysdream/AndroidPreWork/assets/137562842/2adb8772-7670-40b7-b05d-f36ca624f494)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  ScreenToGif
